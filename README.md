@@ -101,7 +101,7 @@ Nedan finns ett antal uppgifter till klassen ovan. Det kan nog ta lite olika lå
 
 1. ~~Gör en `Fork` av detta projekt till ditt GitHub-konto.~~
 2. ~~Klona projektet från ditt GitHub-konto till lämplig plats på din dator.~~
-3. Öppna filen `bilregister.py` i din Python-editor och kör programmet. Försök att förklara varför utskriften blir som den blir.
+3. Skapa filen `bilregister.py` i din Python-editor och och kopiera in koden från filen med samma namn ovan. Kör programmet. Försök att förklara varför utskriften blir som den blir.
 4. Skapa ett objekt `b_car` och initiera denna med valfri modell, färg och miltal.
 5. Tillämpa metoden `get_brand()` både på `a_car` och `b_car`. Resultat?
 6. Skapa en ny metod inne i klassen, `set_color(self, new_color)`. Denna metod ska ändra på attributet `color`.
