@@ -99,9 +99,9 @@ a_car.get_brand()
 
 Nedan finns ett antal uppgifter till klassen ovan. Det kan nog ta lite olika lång tid för olika personer att göra övningarna. I samband med varje lektion är huvudregeln att du ska synkronisera "repon" (projektet på ditt konto på GitHub). På så sätt kommer kodningshistoriken att bli synlig och din process går att följa.
 
-1. Gör en `Fork` av detta projekt till ditt GitHub-konto.
-2. Klona projektet från ditt GitHub-konto till lämplig plats på din dator.
-3. Öppna filen `bilregister.py` i VS Code och kör programmet. Försök att förklara varför utskriften blir som den blir.
+1. ~~Gör en `Fork` av detta projekt till ditt GitHub-konto.~~
+2. ~~Klona projektet från ditt GitHub-konto till lämplig plats på din dator.~~
+3. Öppna filen `bilregister.py` i din Python-editor och kör programmet. Försök att förklara varför utskriften blir som den blir.
 4. Skapa ett objekt `b_car` och initiera denna med valfri modell, färg och miltal.
 5. Tillämpa metoden `get_brand()` både på `a_car` och `b_car`. Resultat?
 6. Skapa en ny metod inne i klassen, `set_color(self, new_color)`. Denna metod ska ändra på attributet `color`.
